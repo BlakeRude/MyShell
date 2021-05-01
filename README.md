@@ -1,6 +1,5 @@
-# MyShell
-
-
+# MyShell - 29 March 2019
+A shell I wrote in 2019 which has similar command structure as BASH
 
 # Running My Shell
 
