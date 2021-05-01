@@ -2,7 +2,7 @@
 
 
 
-#Running My Shell
+# Running My Shell
 
  1) gunzip the tar file
  2) compile 'msh.c' with : gcc msh.c -o msh
